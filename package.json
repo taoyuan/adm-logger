@@ -1,6 +1,6 @@
 {
   "name": "adm-logger",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "The logger used in the various architecture components of adm",
   "homepage": "",
   "author": {
@@ -18,6 +18,9 @@
     "logger",
     "log"
   ],
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org"
+  },
   "dependencies": {
     "logu": "^1.1.3"
   },
