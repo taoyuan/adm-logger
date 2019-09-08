@@ -1,4 +1,7 @@
 # adm-logger [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/taoyuan/adm-logger.svg)](https://greenkeeper.io/)
+
 > The logger used in the various architecture components of adm
 
 ## Installation
